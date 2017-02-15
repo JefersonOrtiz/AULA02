@@ -5,3 +5,4 @@ Mariana Teruya
 Daniel Alves Pereira
 Eder Santos Cirino
 Ricky Cristopher
+Jeferson Ortiz Pattaro
